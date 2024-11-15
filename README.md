@@ -1,6 +1,6 @@
 # portifólio
  Olá, bem vindo ao meu projeto de portifólio 
-![image](c:\Users\Usuario\Pictures\Screenshots\Captura de tela 2024-11-15 185445.png)
+![image](assets/Captura%20de%20tela%202024-11-15%20185445.png)
 
 ## Ferramentas utilizadas:
 
